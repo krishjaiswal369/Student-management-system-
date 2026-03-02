@@ -47,5 +47,3 @@ Upon running, you will interact with the following menu:
 5. **Delete Student** (Remove record)
 6. **Exit**
 ---
-
-**Would you like me to help you modify the code so it saves and loads the student data from a `.txt` or `.dat` file so you don't lose your data?**
