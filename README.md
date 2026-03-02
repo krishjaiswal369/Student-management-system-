@@ -1,9 +1,3 @@
-This is a classic example of a **CRUD** (Create, Read, Update, Delete) application in C. It’s a great way to demonstrate how to use structs and arrays to manage data without needing a heavy database.
-
-Here is a clean, professional description you can use for your `README.md`.
-
----
-
 # Student Management System (C-Based)
 
 A lightweight, console-based **Student Information Management System** written in C. This program uses a structured array to store student records, allowing for efficient data handling and basic database operations within a single session.
