@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 #define MAX_STUDENTS 1000
 struct Student {
     int roll;
