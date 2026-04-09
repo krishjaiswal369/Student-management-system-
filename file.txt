@@ -1,8 +1,0 @@
-this is a temporarily file... which is going to be deleted soon after krish jaiswal will understand some more about git
-
-this is a boiler plate code for c
-#include<stdio.h>
-int main(){
-	printf("hello,world");
-	return 0;
-}
